@@ -1,2 +1,2 @@
 # simon-game
-This is  the Simon Game which is based on JavaScript
+This is  the Simon Game which is based on JavaScript.
